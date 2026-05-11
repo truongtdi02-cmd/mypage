@@ -1,0 +1,27 @@
+Thiết kế một website portfolio single-page phong cách aesthetic cho Trương Triệu Vy, sinh viên khoa CNTT - Đồ họa kỹ thuật số.
+
+Yêu cầu giao diện:
+- Tông màu chủ đạo tím hồng pastel, nhẹ nhàng, dreamy, mềm mại.
+- Background giữ tone màu gốc nhưng có thêm layer hiệu ứng bầu trời động.
+- Ban ngày: đám mây trắng mềm mại bay ngang màn hình, tốc độ chậm, cảm giác tự nhiên.
+- Ban đêm: hiệu ứng trời sao lung linh với nhiều ngôi sao nhỏ phát sáng, twinkle nhẹ và chuyển động chậm.
+- Chuyển đổi ngày/đêm mượt mà bằng fade animation.
+- Hiệu ứng chỉ thêm layer phía trên, không đổi tone nền cơ bản.
+- Responsive cho desktop và mobile.
+- Ít nhất một yếu tố tương tác: hover, anim, theme toggle.
+
+Nội dung trang:
+1. Hero: Họ tên, vai trò nghề nghiệp, câu mô tả ngắn mang dấu ấn cá nhân, CTA.
+2. About: thông tin cá nhân, định hướng nghề nghiệp, kỹ năng chính.
+3. Projects: tên dự án, mô tả ngắn, hình ảnh minh họa phong cách AI/aesthetic, vai trò trong dự án.
+4. Skills/Experience: thể hiện bằng biểu đồ, thẻ tin hoặc trực quan.
+5. Contact: thông tin liên hệ và lời kêu gọi hành động rõ ràng.
+
+Phong cách UX:
+- Thể hiện bản sắc cá nhân rõ ràng qua màu sắc, phông chữ, kiểu dáng.
+- Bố cục rõ ràng, dễ đọc, thân thiện với nhà tuyển dụng.
+- Tương tác nhẹ nhàng, mượt mà, có hover và chuyển đổi theme.
+
+Kết quả mong muốn:
+- Một trang portfolio đẹp, cá tính, dễ tiếp cận và phù hợp với ứng tuyển/giới thiệu bản thân.
+- Tập trung vào hình ảnh mềm mại, trải nghiệm hiển thị tốt và nhấn mạnh kỹ năng/giao diện.
